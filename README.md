@@ -10,3 +10,7 @@ Multipurpose PLC-Board based on STM32-Microcontroller
 - AI for soil moisture
 - DO for Pumps and Valves
 - serial out for WS2812b RGB LED (grow light)
+- display
+- joystick knop
+- Modbus / CAN
+- ESP32 coprossessor
