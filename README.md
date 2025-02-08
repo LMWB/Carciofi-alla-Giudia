@@ -9,4 +9,4 @@ Multipurpose PLC-Board based on STM32-Microcontroller
 - I2C for sensors (Groove Connector)
 - AI for soil moisture
 - DO for Pumps and Valves
-- serial out for WS1820 RGB LED (grow light)
+- serial out for WS2812b RGB LED (grow light)
